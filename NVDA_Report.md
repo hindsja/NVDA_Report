@@ -96,3 +96,4 @@ I would change the call to **initiate-buy** if a price-based valuation shows an 
 
 - NVIDIA Corporation, *Annual Report on Form 10-K for the fiscal year ended January 25, 2026*, filed February 25, 2026, especially Item 7, pp. 36–43, and Notes 7, 11, and 16. <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
 
+*This report was prepared for FIN 43900 as a learning exercise. It is not investment research or financial advice. ChatGPT and Codex assisted with drafting the content and code. I accept responsibility for all judgment calls and any remaining errors.*
