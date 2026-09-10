@@ -148,14 +148,3 @@ five-year FCFF growth than the current forecast; otherwise remain watch-defer.
 Monitor one item: whether fiscal 2027 FCFF is on track to meet the model's
 $130.8 billion Year 1 forecast.
 
-## Jon's final checks before submission
-
-- Confirm the 35% / 25% / 18% / 12% / 8% forecast reflects your own judgment and
-  replace it if you cannot defend it.
-- Replace the 16% WACC if your earlier WACC prediction was different; rerun the
-  script and update every affected output.
-- Verify the exact current NVDA price and timestamp in your market feed.
-- Be prepared to explain why interest expense is only a proxy for undisclosed
-  cash interest paid and why marketable securities were excluded from cash.
-- Preserve this AI chat, the model/version shown by the interface, the executed
-  terminal output, and your material revisions if required by the course.
