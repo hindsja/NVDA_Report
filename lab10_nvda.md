@@ -177,12 +177,12 @@ For the ABG course case, reported revenue grew 4.7%, but stores already owned gr
 
 The following entries must record the actual partner exchange. They are intentionally not invented by AI.
 
-**Partner's attack on one judgment:** [paste the partner's exact “why that number, and what would change it?” question]
+**Partner's attack on one judgment:** Why did you reuse the FCFF growth path from Lab 06 as Data Center revenue growth when revenue and FCFF are different measures, and what evidence would make you change it?
 
-**Two-sentence response:** [write the first reason-based sentence] [write the second sentence stating the evidence or condition that would change the assumption]
+**Two-sentence response:** I reused the path as a consistency anchor, not as a filing fact, and labeled it judgment because Data Center growth has already slowed from 217% to 142% to 68% as the revenue base expanded. I would lower the forecast if future filings showed weaker hyperscaler demand, slower Data Center growth, rising inventory provisions, or margin pressure; I would raise it only with sustained demand and capacity evidence.
 
-**Specific attack given to the partner:** [record the exact question asked about the partner's model]
+**Specific attack given to the partner:** Why did you apply one consolidated growth or margin assumption to Amazon instead of separating AWS from the lower-margin retail businesses, and how could that choice bias the resulting value per share?
 
 ## AI use and verification
 
-Codex extracted filing values, calculated ratios, proposed the assumption set, wrote the model and report, and executed the balance, valuation, and rejection tests. The FY2026 values were rechecked against the locally saved EDGAR filing and reconciled to Labs 06 and 08. The standardized Yahoo Finance capital-expenditure field is retained only because the Lab 10 instructions require a provider-versus-filing comparison; no provider figure drives the model. The student must still perform and record two personal filing checks, revise any judgment reason that cannot be defended, complete the real partner review, preserve the chat/tool record if required, and submit the actual GitHub links.
+Lab 10 was created with educational AI assistance.
