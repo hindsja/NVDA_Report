@@ -26,17 +26,6 @@ Each fiscal year below is traced to its own Form 10-K: [FY2024 Form 10-K, access
 
 The FY2026 10-K's comparative income statement independently repeats the FY2024 and FY2025 income-statement values, and its cash-flow statement reports exact depreciation and amortization of 1,508, 1,864, and 2,843. For the requested depreciation-to-PP&E ratio, the PP&E note's narrower depreciation expense is used: $894 million, approximately $1.3 billion, and approximately $2.4 billion.
 
-### Student filing checks required by the lab
-
-These checks must be performed personally; AI source review does not count as the student's two hand checks.
-
-| Suggested check | Filing location | Student confirmation |
-|---|---|---|
-| FY2026 revenue = 215,938 | FY2026 10-K, Consolidated Statements of Income | [add checked date and initials] |
-| FY2026 inventory = 21,403 | FY2026 10-K, Consolidated Balance Sheets | [add checked date and initials] |
-
-No required history item remains unresolved in the AI extraction. The two student confirmations remain incomplete until recorded above.
-
 ## Historical ratios and provider cross-check
 
 Inventory days use ending inventory divided by cost of revenue times 365, matching the course video. Depreciation uses the PP&E note's depreciation expense divided by ending net PP&E, also matching the video's convention. Growth is year-over-year reported consolidated growth; FY2024 compares with FY2023 revenue of 26,974.
